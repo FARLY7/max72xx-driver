@@ -2,9 +2,6 @@
 
 WORK IN PROGRESS.
 
-This repository contains a platform-agnostic driver for the MXA7219 and MAX7221 LED drivers.
+This repository contains a platform-agnostic driver for the MAX7219 and MAX7221 LED driver ICs.
 
-The functionality of this driver will be mainly focussed on the LED matrix use case, rather than seven-segment displays.
-
-Short comings:
-- Driver assumes LED matrixes are laid out in horizontal fashion.
+The functionality will be mainly focussed on the use of LED matrices rather than seven-segment displays.
